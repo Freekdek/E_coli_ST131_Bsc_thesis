@@ -1,0 +1,3 @@
+All scripts can be ran on the command line like this: ``python *path to script* -i input -o output (arguments)``, except for the clustering script
+
+More specific instructions will follow...
