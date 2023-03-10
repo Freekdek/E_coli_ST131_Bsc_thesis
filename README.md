@@ -1,4 +1,6 @@
 # [DRAFT] Whole genome typing methods for differentiating between epidemiologically related and unrelated E. coli ST131 isolates.
+![Whole genome typing tools](/git_icon.png "Whole genome typing tools icons")
+
 ### Introduction 
 
 Current typing methods have difficulty to distinguish epidemiologically related and unrelated E. coli ST131 samples. In the present study, the chewBBACA, PopPUNK, Snippy and whole multilocus sequence typing using Seqsphere were compared for their ability to discriminate related from unrelated E. coli ST131 isolates. 
