@@ -16,3 +16,12 @@ All tools except for chewBBACA showed a significant genetic distance difference 
 ### Conclusion 
 
 Contrary to expectation, the standard E. coli wgMLST scheme in Ridom SeqSphere is capable of distinguishing strictly defined related from unrelated samples and so do the other typing methods except for chewBBACA. For future study, the typing tools should be applied to a more realistic dataset with less strictly defined related and unrelated samples, to determine the discriminatory power at multiple cutoffs. 
+
+
+
+## Poster presentation
+<object data="https://github.com/Freekdek/E_coli_ST131_Bsc_thesis/blob/main/Poster_Presentation_Freek_de_Kreek.pdf" width="700px" height="700px">
+    <embed src="https://github.com/Freekdek/E_coli_ST131_Bsc_thesis/blob/main/Poster_Presentation_Freek_de_Kreek.pdf.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Freekdek/E_coli_ST131_Bsc_thesis/blob/main/Poster_Presentation_Freek_de_Kreek.pdf">Download PDF</a>.</p>
+    </embed>
+</object>)
