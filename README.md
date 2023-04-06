@@ -25,3 +25,8 @@ Contrary to expectation, the standard E. coli wgMLST scheme in Ridom SeqSphere i
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Freekdek/E_coli_ST131_Bsc_thesis/blob/main/Poster_Presentation_Freek_de_Kreek.pdf">Download PDF</a>.</p>
     </embed>
 </object>)
+
+## Data availability
+For the Python scripts used for analysis in this study, please refer to <a href="https://github.com/Freekdek/E_coli_ST131_Bsc_thesis/blob/main/scripts/">this link</a>.
+
+Results can also be viewed <a href="https://github.com/Freekdek/E_coli_ST131_Bsc_thesis/blob/main/results/">here</a>.
